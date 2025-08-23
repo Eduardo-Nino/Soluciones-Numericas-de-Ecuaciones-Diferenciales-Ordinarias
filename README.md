@@ -4,7 +4,6 @@ Este repositorio reúne notas, implementaciones y experimentos relacionados con 
 
 El objetivo principal es **conocer, analizar y experimentar con los métodos numéricos más robustos, confiables y eficientes** para resolver problemas con condiciones iniciales y de frontera, destacando sus ventajas, desventajas y limitaciones prácticas.
 
----
 
 ## Durante el curso se abordaran los siguientes temas:
 
@@ -19,12 +18,10 @@ El objetivo principal es **conocer, analizar y experimentar con los métodos num
 - **Métodos de disparo**
 - **Introducción a los métodos de elemento finito**
 
----
 
 ## 🛠️ Herramientas
 En este curso se utilizan principalmente:
 - **Python** 🐍 (NumPy, Matplotlib, SciPy)
----
 
 ## 🎯 Lo que aprenderás
 - Implementar métodos numéricos para resolver EDOs.
@@ -32,7 +29,6 @@ En este curso se utilizan principalmente:
 - Analizar ventajas, desventajas y limitaciones en problemas reales.
 - Resolver tanto **problemas con condiciones iniciales** como **problemas de frontera**.
 
----
 
 ## 📂 Estructura del repositorio
 - `notebooks/` → Ejemplos y experimentos en Python.  
