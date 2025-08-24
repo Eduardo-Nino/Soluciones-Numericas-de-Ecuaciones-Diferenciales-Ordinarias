@@ -1,6 +1,6 @@
 # Soluciones Numéricas de Ecuaciones Diferenciales Ordinarias (EDO)
 
-Este repositorio reúne notas, implementaciones y experimentos relacionados con la **resolución numérica de EDOs**, tomando como base el curso de *Soluciones Numéricas de Ecuaciones Diferenciales Ordinarias*.  
+Este repositorio reúne notas, implementaciones y experimentos relacionados con la **resolución numérica de EDOs**, tomando como base el curso de *Soluciones Numéricas de Ecuaciones Diferenciales Ordinarias*, bajo la guía de la profesora *Alicia M. de la Mora Cebada (UNAM)* 
 
 El objetivo principal es **conocer, analizar y experimentar con los métodos numéricos más robustos, confiables y eficientes** para resolver problemas con condiciones iniciales y de frontera, destacando sus ventajas, desventajas y limitaciones prácticas.
 
