@@ -1,4 +1,4 @@
-# Soluciones Numéricas de Ecuaciones Diferenciales Ordinarias (EDO)
+# Portafolio: Soluciones Numéricas de Ecuaciones Diferenciales Ordinarias (EDO)
 
 Este repositorio reúne notas, implementaciones y experimentos relacionados con la **resolución numérica de EDOs**, tomando como base el curso de *Soluciones Numéricas de Ecuaciones Diferenciales Ordinarias*, bajo la guía de la profesora Alicia M. de la Mora Cebada (UNAM). 
 
