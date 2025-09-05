@@ -29,11 +29,4 @@ En este curso se utilizan principalmente:
 - Analizar ventajas, desventajas y limitaciones en problemas reales.
 - Resolver tanto **problemas con condiciones iniciales** como **problemas de frontera**.
 
-
-## 📂 Estructura del repositorio
-- `notebooks/` → Ejemplos y experimentos en Python.  
-- `matlab/` → Implementaciones en MATLAB.  
-- `teoria/` → Resúmenes teóricos y apuntes.  
-- `ejercicios/` → Problemas prácticos resueltos.  
-
 ---
