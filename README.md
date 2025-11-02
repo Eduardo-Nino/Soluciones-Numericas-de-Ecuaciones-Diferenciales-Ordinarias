@@ -23,7 +23,7 @@ El objetivo principal es **conocer, analizar y experimentar con los métodos num
 En este curso se utilizan principalmente:
 - **Python** 🐍 (NumPy, Matplotlib, SciPy)
 
-## 🎯 Lo que aprenderás
+## 🎯 Lo que aprenderé
 - Implementar métodos numéricos para resolver EDOs.
 - Comparar eficiencia, precisión y estabilidad de los distintos métodos.
 - Analizar ventajas, desventajas y limitaciones en problemas reales.
